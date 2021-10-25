@@ -1,4 +1,4 @@
-- 👋 Hola, Soy Raúl Rojas Fundador y CEO de vencrea.com. Soy Consultor WordPress y un entusiasta del empredimiento digital.
+- 👋 Hola, Soy Raúl Rojas Fundador de vencrea.com. Soy Consultor WordPress y un entusiasta del empredimiento digital.
 
 <!---
 autodidactanetve/autodidactanetve is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
